@@ -1,3 +1,2 @@
 # front-end-patikasi
-Bu patikada işlediğim konuları ve ödevleri ileride yararlanmak adına burada depoluyorum.
-İstediğiniz kadar faydalanabilirsiniz :=)
+Akıp giden bir bataklığın içindeyiz hepimiz: Ama, yıldızlara bakıyor bazılarımız Oscar Wilde
