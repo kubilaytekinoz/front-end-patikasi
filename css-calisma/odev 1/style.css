@@ -1,0 +1,31 @@
+ul{
+    display: flex;
+    list-style: none;
+    width: 560px;
+    margin: 15px auto;
+    justify-content: space-between
+}
+h1 {
+    width: 600px;
+    margin: 10px auto;
+    text-align: center;
+    color:darkgoldenrod
+    
+}
+h2 {
+    color:blue
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+ }
+ .menu{
+     background-color: chartreuse;
+     font-size: 30px;
+     
+     
+ }
+ a:hover{
+     background-color: red;
+ }
+ 
